@@ -2,7 +2,7 @@
 
 # Udagram
 
-[![cci-t4uwi](https://circleci.com/gh/cci-t4uwi/nd0067-c4-udagram.svg?style=svg&circle-token=7ed3ff6bf62c4c766183280b4926a45ddeb00d7d)](https://app.circleci.com/pipelines/circleci/HFf6vVajpBjJPxciPqDRNd/XZR95VwJD5mvyViM7hstg8)
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/HFf6vVajpBjJPxciPqDRNd/XZR95VwJD5mvyViM7hstg8/tree/main.svg?style=svg&circle-token=dc8308f487e4d4a1104f2b2609f06838fa8760b2)](https://dl.circleci.com/status-badge/redirect/circleci/HFf6vVajpBjJPxciPqDRNd/XZR95VwJD5mvyViM7hstg8/tree/main)
 
 This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
